@@ -1,7 +1,4 @@
-# Hi
-
-[![Otabek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=professorDeveloper&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+# Hi I`m Otabek
 
 ## My Streak
 
@@ -11,6 +8,8 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=Otabek-Oripov&theme=radical" alt="GitHub Ranks" /></a></p>
 
+
+[![Otabek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=durov&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
