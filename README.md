@@ -1,6 +1,6 @@
 # Hi
 
-[![Otabek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=otabek_flutter)](https://github.com/anuraghazra/github-readme-stats)
+[![Otabek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=professorDeveloper&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My Streak
