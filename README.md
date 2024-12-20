@@ -1,9 +1,5 @@
 # Hi I`m Otabek
 
-## My Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Otabek-Oripov&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dracula&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
 ## My Ranks
 
 <img src="https://github-profile-trophy.vercel.app/?username=Otabek-Oripov&theme=radical" alt="GitHub Ranks" /></a></p>
