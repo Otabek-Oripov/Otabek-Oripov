@@ -39,8 +39,8 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Otabek-Oripov&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otabek-Oripov&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ### 🔥 My Streak
@@ -52,19 +52,19 @@
 ### 🏆 My Ranks
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Otabek-Oripov&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=8" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Otabek-Oripov&theme=radical&no-frame=true&margin-w=4&row=1&column=8" alt="GitHub trophies" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Otabek-Oripov&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://ghchart.rshah.org/ff6e96/Otabek-Oripov" alt="Contribution chart" width="100%" />
 </p>
 
 ### ⏱️ My WakaTime
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=otabek_flutter&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="WakaTime stats" />
+  <img src="./profile/wakatime.svg" alt="WakaTime stats" />
 </p>
 
 ### 🐍 Contribution Snake
