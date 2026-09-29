@@ -26,6 +26,30 @@
 
 ---
 
+### 🏢 Organizations & Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <img src="./assets/dms-express.png" width="80" height="80" alt="DMS Express" /><br />
+      <b>DMS Express</b><br />
+      <sub>Logistics &amp; delivery</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/Otabek-Oripov/oqyol"><img src="./assets/oqyol.svg" width="80" height="80" alt="Oq Yo'l" /></a><br />
+      <b>Oq Yo'l</b><br />
+      <sub>Ride-hailing app</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="./assets/kinohub.png" width="80" height="80" alt="Kino Hub" /><br />
+      <b>Kino Hub</b><br />
+      <sub>Movie streaming app</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="center">
@@ -53,12 +77,6 @@
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Otabek-Oripov&theme=radical&no-frame=true&margin-w=4&row=1&column=8" alt="GitHub trophies" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/ff6e96/Otabek-Oripov" alt="Contribution chart" width="100%" />
 </p>
 
 ### ⏱️ My WakaTime
