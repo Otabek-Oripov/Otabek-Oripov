@@ -79,12 +79,6 @@
   <img src="https://github-trophies.vercel.app/?username=Otabek-Oripov&theme=radical&no-frame=true&margin-w=4&row=1&column=8" alt="GitHub trophies" />
 </p>
 
-### ⏱️ My WakaTime
-
-<p align="center">
-  <img src="./profile/wakatime.svg" alt="WakaTime stats" />
-</p>
-
 ### 🐍 Contribution Snake
 
 <picture>

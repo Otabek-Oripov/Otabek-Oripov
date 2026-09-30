@@ -33,14 +33,6 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: WakaTime card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: wakatime
-          options: username=otabek_flutter&layout=compact&langs_count=8&theme=radical&hide_border=true
-          path: profile/wakatime.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
