@@ -17,7 +17,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Technologist.png" width="30" /> About me
+### About me
 
 - 📱 Flutter & Android developer — I build cross-platform mobile apps
 - 🔭 Currently working on logistics / delivery mobile apps
@@ -26,7 +26,7 @@
 
 ---
 
-### 🏢 Organizations & Projects
+### Organizations & Projects
 
 <table align="center">
   <tr>
@@ -50,7 +50,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -60,26 +60,26 @@
 
 ---
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 
 <p align="center">
   <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
   <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
-### 🔥 My Streak
+### My Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Otabek-Oripov&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
-### 🏆 My Ranks
+### My Ranks
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Otabek-Oripov&theme=radical&no-frame=true&margin-w=4&row=1&column=8" alt="GitHub trophies" />
 </p>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Otabek-Oripov/Otabek-Oripov/output/github-snake-dark.svg" />
@@ -87,7 +87,7 @@
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Otabek-Oripov/Otabek-Oripov/output/github-snake.svg" />
 </picture>
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
